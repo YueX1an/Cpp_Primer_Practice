@@ -1,2 +1,2 @@
-# Cpp_Primer_Practice
-C++学习记录
+# Python_Primer_Practice
+Python学习记录
